@@ -23,7 +23,7 @@ const Home = () => {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               {/* Download CV */}
               <a
-                href="/assets/CV.pdf" 
+                href="/asset/CV.pdf" 
                 download 
               >
                 <Button
